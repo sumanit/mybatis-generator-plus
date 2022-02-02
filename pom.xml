@@ -21,7 +21,7 @@
     </build>
     <name>Mybatis-generator-plus</name>
     <properties>
-        <postgresql.version>42.2.2</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
     </properties>
     <dependencies>
         <dependency>
